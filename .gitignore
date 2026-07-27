@@ -1,0 +1,89 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Environment variables (contains API keys - keep private!)
+.env
+
+# Python
+__pycache__/
+instance/
+
+# Gemini
+.gemini/
+
+# ============================================
+# Non-essential files (not needed for the app)
+# ============================================
+
+# PDFs and documentation artifacts
+*.pdf
+
+# Screenshots / images in root
+
+# Temporary analysis/debug/log text files
+*.txt
+
+# Admin panel (not part of mobile app)
+admin.html
+admin_config.json
+admin_page_summary.md
+
+# Summary/documentation markdown in root
+summary_app_py.md
+
+# Test/utility/debug Python scripts
+test_*.py
+verify_*.py
+discover_models.py
+list_models.py
+list_all_models.py
+clean_mini.py
+replace_mini.py
+re_opacity.py
+recover_history.py
+
+# Moodify sub-project (separate React Native/Expo app)
+moodify/
