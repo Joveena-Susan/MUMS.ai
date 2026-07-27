@@ -100,10 +100,9 @@ flutter run
 - Extended daily journaling and mood calendar
 
 ## 👨‍💻 Author
-
 **Joveena Susan Joby**
 - 🌐 GitHub: https://github.com/Joveena-Susan
-- **Jeffery Maju**
+**Jeffery Maju**
 - 🌐 GitHub: [https://github.com/JefferyMaju](https://github.com/JefferyMaju)
 
 ⭐ If you found this project interesting, consider giving it a star!
